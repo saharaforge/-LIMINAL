@@ -1,3 +1,6 @@
-ID, Name, Category, Type, Use, Location, Author, License, Source, ExternalID, Notes
-
-00001, wood_desk_light.jpg, Image, Texture, 学校机の天板, unsaved
+ID,Name,Category,Type,Use,Location,Author,License,Source,ExternalID,Notes
+00001,wood_desk_light.jpg,Image,Texture,学校机の天板,,Orman Clark,,https://www.premiumpixels.com/freebies/10-free-high-resolution-wood-textures,00001,"""wood2""を使用"
+00002,metal_desk-legs.jpg,Image,Texture,学校机の脚,,AIPICT,https://aipict.com/terms-of-use/,https://aipict.com/texture/metal_texture/,00002,"""metal01""を使用"
+00003,,,,,,,,,,
+00004,,,,,,,,,,
+,,,,,,,,,,

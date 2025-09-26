@@ -1,10 +1,10 @@
-ID	Name	Extension	SizeOnMB	Category	For	Use	Location	Author	License	Source	Condition	State
-00001	wood_desk_light.jpg	JPG	1.6	Image	Texture	学校机の天板	D:\Creat\LIMINAL\GameAssets\Image\Texture\wood_desk_light.jpg	Orman Clark		https://www.premiumpixels.com/freebies/10-free-high-resolution-wood-textures	Final	
-00002	metal_desk-legs.png	PNG	1.7	Image	Texture	生徒机の脚	D:\Creat\LIMINAL\GameAssets\Image\Texture\metal_desk-legs.jpg	AIPICT	https://aipict.com/terms-of-use/	https://aipict.com/texture/metal_texture/	Final	Used
-00003	student-desk.blend	BLEND	1.0	Blender	Furniture	生徒机	D:\Creat\LIMINAL\GameAssets\Blender\Furniture\student-desk.blend	saharaforge			WIP	
-00004	logo_icon_2k.png	PNG		Image	Illustration	ロゴアイコン	D:\Creat\LIMINAL\GameAssets\Image\Illustration\logo_icon_2k.png	saharaforge			Final	
-00005												
-00006												
+ID	Name	Extension	SizeOnKB	Category	For	Use	Location	Author	License	Source	Condition	State
+00001	wood_desk_light.jpg	JPG	1633	Image	Texture	学校机の天板	D:\Creat\LIMINAL\GameAssets\Image\Texture\wood_desk_light.jpg	Orman Clark		https://www.premiumpixels.com/freebies/10-free-high-resolution-wood-textures	final	
+00002	metal_desk-legs.png	PNG	1701	Image	Texture	生徒机の脚	D:\Creat\LIMINAL\GameAssets\Image\Texture\metal_desk-legs.jpg	AIPICT	https://aipict.com/terms-of-use/	https://aipict.com/texture/metal_texture/	final	Used
+00003	student-desk.blend	BLEND	1010	Blender	Furniture	生徒机	D:\Creat\LIMINAL\GameAssets\Blender\Furniture\student-desk.blend	saharaforge			work-in-progress	
+00004	logo_icon_2k.png	PNG	48	Image	Illustration	ロゴアイコン	D:\Creat\LIMINAL\GameAssets\Image\Illustration\logo_icon_2k.png	saharaforge			final	
+00005	アスファルトの上を歩く1.mp3	MP3	386	Audio	SE	加工前アスファルト足音	D:\Creat\LIMINAL\GameAssets\Audio\SE\アスファルトの上を歩く1.mp3	効果音ラボ	https://soundeffect-lab.info/agreement/	https://soundeffect-lab.info/sound/various/	before-processing	
+00006	walk_asphalt_01.mp3	MP3		Audio	SE	アスファルト足音	D:\Creat\LIMINAL\GameAssets\Audio\SE\walk_asphalt_01.mp3	saharaforge		D:\Creat\LIMINAL\GameAssets\Audio\SE\アスファルトの上を歩く1.mp3	processed	
 00007												
 00008												
 00009												
